@@ -40,7 +40,7 @@
         "steps":[
             {
                 "type": "extractFile",
-                "file": "homebrew_launcher.v1.3.zip",
+                "file": "homebrew_launcher.v1.4.zip",
                 "path": ""
             }
         ]
