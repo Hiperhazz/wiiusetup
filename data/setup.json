@@ -10,6 +10,18 @@
             }
         ]
     },
+    
+    "Payload.elf":{
+        "type":"github",
+        "repo":"wiiu-env/homebrew_launcher_installer",
+        "steps":[
+            {
+                "type": "extractFile",
+                "file": ".zip",
+                "path":"wiiu"
+            }
+        ]
+    },
 
     "WUP Installer GX2 _HBL_":{
         "type":"direct",
