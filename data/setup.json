@@ -36,7 +36,7 @@
      "HBL 1.4":{
         "type":"github",
         "repo":"dimok789/homebrew_launcher",
-         "version":"v1.4",
+         "version":"1.4",
         "steps":[
             {
                 "type": "extractFile",
